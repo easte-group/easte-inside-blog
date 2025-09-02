@@ -1,4 +1,4 @@
-# Ubie Engineers' Blogs
+# easte inside blog
 
 Fork of https://github.com/catnose99/team-blog-hub
 
