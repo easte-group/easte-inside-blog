@@ -2,7 +2,7 @@
 
 Fork of https://github.com/catnose99/team-blog-hub
 
-published at: https://blog.ubie.tech/
+published at: https://inside.easte.jp/
 
 ## Development
 
