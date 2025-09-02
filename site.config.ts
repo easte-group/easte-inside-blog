@@ -7,6 +7,5 @@ export const config = {
     ogImage: 'og.png',
   },
   siteRoot: process.env.NODE_ENV === 'production' ? 'https://inside.easte.jp' : 'http://localhost:3000',
-  headerLinks: [
-  ],
+  headerLinks: [] as { href: string; title: string }[],
 };
