@@ -10,7 +10,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <link rel="icon shortcut" type="image/png" href={`${config.siteRoot}/logo.png`} />
+        <link rel="icon shortcut" href={`${config.siteRoot}/favicon.ico`} />
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" />
       </Head>
       <SiteHeader />
