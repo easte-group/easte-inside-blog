@@ -8,9 +8,5 @@ export const config = {
   },
   siteRoot: process.env.NODE_ENV === 'production' ? 'https://inside.easte.jp' : 'http://localhost:3000',
   headerLinks: [
-    {
-      title: 'Group',
-      href: 'https://www.easte.jp/',
-    },
   ],
 };
