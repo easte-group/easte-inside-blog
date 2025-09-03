@@ -17,10 +17,10 @@ jobs:
         with:
           ref: ${{ github.event.inputs.ref }}
 
-      # dummy comment
       - uses: actions/setup-node@v3
         with:
           node-version: 22.x
+          check-latest: true
 
       - run: |
           export NODE_OPTIONS=--openssl-legacy-provider
