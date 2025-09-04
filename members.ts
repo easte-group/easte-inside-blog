@@ -16,5 +16,6 @@ export const members: Member[] = [
     sources: ['https://qiita.com/kocho5252/feed'],
     twitterUsername: 'k0cho5252',
     githubUsername: 'kocho5252',
+    websiteUrl: 'https://kocho5252.github.io',
   },
 ].sort((a, b) => (a.nickname < b.nickname ? -1 : 1));
